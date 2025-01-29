@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcc00;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 1rem;
+}
+
+form {
+    background: white;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #ffcc00;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#ilanlar {
+    margin-top: 1rem;
+}
+
+.ilan {
+    background: white;
+    padding: 1rem;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.duzenle {
+    background-color: #007bff;
+    color: white;
+}
+
+.sil {
+    background-color: #dc3545;
+    color: white;
+}
+
+
