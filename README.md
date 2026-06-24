@@ -23,14 +23,16 @@ The system is a simple web-based platform that allows users to view taxi adverti
 
 ## Documentation
 
-Project documentation is available in the `documentation` folder and includes:
+This repository contains supporting project documentation prepared during the Software Engineering course, including:
 
-* Requirements Analysis
-* Task Planning
-* Use Case Scenarios
-* UML Diagrams
-* Class Diagram
-* Usability Testing Report
+- Requirements Analysis
+- Task Planning
+- Use Case Analysis
+- UML Diagrams
+- Class Diagram
+- Usability Testing Report
+
+The reports provide detailed information about the project's analysis, design, implementation, and evaluation phases.
 
 ## Live Demo
 
