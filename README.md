@@ -4,15 +4,15 @@
 
 This project was developed as part of a Software Engineering course.
 
-The system is a simple web-based platform that allows users to view taxi advertisements and enables drivers to create and manage advertisements. The project focuses on requirements analysis, system design, implementation, and usability evaluation.
+The system is a simple web-based platform designed for viewing and managing taxi advertisements.
 
 ## Features
 
-* View taxi advertisements
-* Create taxi advertisements
-* Advertisement management interface
-* Responsive web design
-* User-friendly interface
+- Taxi advertisement listing
+- Advertisement submission interface
+- Responsive web design
+- User-friendly interface
+- Basic advertisement management functionality
 
 ## Technologies Used
 
